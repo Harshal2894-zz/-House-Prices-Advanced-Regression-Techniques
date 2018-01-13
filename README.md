@@ -15,7 +15,7 @@ Code of the project:
 The code contains in the 'House Prices - Advanced Regression Techniques.ipynb' file.
 
 Data for the problem:
-The training data contains in 'train.csv' file and the testing data contains in the 'train.csv' file and the testing data contains in the 'test.csv' file. I am also adding a file 'Data Description.txt' which contains the explanations of the fields available in the other data files.
+The training data is contained in 'train.csv' file and the testing data is contained in the 'test.csv' file. 'Data Description.txt' is the file which contains the explanations of the fields available in the other data files.
 
 #To download the data please follow the links:
 
